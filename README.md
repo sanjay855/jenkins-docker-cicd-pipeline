@@ -166,10 +166,7 @@ Suggested screenshots to include:
 - Jenkinsfile pipeline definition
 - Docker image build output
 - Automated test results
-- Deployment and health-check output
 - Running Docker containers
-
-> Add screenshots to the `screenshots/` directory and update the image paths below if your filenames differ.
 
 <!-- Example:
 ![Jenkins pipeline](screenshots/jenkins-pipeline.png)
@@ -197,5 +194,3 @@ Suggested screenshots to include:
 - Add notifications for pipeline success or failure
 
 ---
-
-**Author:** Sanjay
